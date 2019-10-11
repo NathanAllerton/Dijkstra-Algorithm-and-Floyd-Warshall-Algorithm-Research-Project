@@ -19,7 +19,7 @@ I was given the prompt of researching this topic by writing a paper that discuss
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xbQ0ewgNNKA
   " target="_blank"><img src="http://i3.ytimg.com/vi/xbQ0ewgNNKA/maxresdefault.jpg" 
-  alt="Video Presentation" width="240" height="180" border="2" /></a>
+  alt="Video Presentation" border="10" /></a>
 </p>
 
 [Final Report](https://github.com/NathanAllerton/Dijkstra-Algorithm-and-Floyd-Warshall-Algorithm-Research-Project/blob/master/Nawal%20Ahmed%20-%20Actual%20Report.docx)
