@@ -20,6 +20,8 @@ I was given the prompt of researching this topic by writing a paper that discuss
   <a href="https://www.youtube.com/watch?v=xbQ0ewgNNKA
   " target="_blank"><img src="http://i3.ytimg.com/vi/xbQ0ewgNNKA/hqdefault.jpg" 
   alt="Video Presentation"/></a>
+  <br>
+  <em>YouTube Video Presentation
 </p>
 
 [Final Report](https://github.com/NathanAllerton/Dijkstra-Algorithm-and-Floyd-Warshall-Algorithm-Research-Project/blob/master/Nawal%20Ahmed%20-%20Actual%20Report.docx)
