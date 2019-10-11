@@ -18,7 +18,7 @@ I was given the prompt of researching this topic by writing a paper that discuss
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xbQ0ewgNNKA
-  " target="_blank"><img src="http://img.youtube.com/vi/watch?v=xbQ0ewgNNKA/0.jpg" 
+  " target="_blank"><img src="http://i3.ytimg.com/vi/xbQ0ewgNNKA/maxresdefault.jpg" 
   alt="Video Presentation" width="240" height="180" border="2" /></a>
 </p>
 
