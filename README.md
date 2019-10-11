@@ -7,13 +7,13 @@ I was given the prompt of researching this topic by writing a paper that discuss
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/66669444-8c1a7500-ec25-11e9-9412-ef17a064a5ee.jpg">
   <br>
-  <em> Dijkstra Algorithm Program
+  <em> Dijkstra Algorithm Program </em>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/66669444-8c1a7500-ec25-11e9-9412-ef17a064a5ee.jpg">
   <br>
-  <em> Floyd-Warshall Program
+  <em> Floyd-Warshall Program </em>
 </p>
 
 <p align="center">
@@ -21,7 +21,9 @@ I was given the prompt of researching this topic by writing a paper that discuss
   " target="_blank"><img src="http://i3.ytimg.com/vi/xbQ0ewgNNKA/hqdefault.jpg" 
   alt="Video Presentation"/></a>
   <br>
-  <em>YouTube Video Presentation
+  <em>YouTube Video Presentation (Click on Image for Video) </em>
 </p>
+
+
 
 [Final Report](https://github.com/NathanAllerton/Dijkstra-Algorithm-and-Floyd-Warshall-Algorithm-Research-Project/blob/master/Nawal%20Ahmed%20-%20Actual%20Report.docx)
