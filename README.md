@@ -7,13 +7,13 @@ I was given the prompt of researching this topic by writing a paper that discuss
 This is the [Project Proposal](https://github.com/NathanAllerton/Dijkstra-Algorithm-and-Floyd-Warshall-Algorithm-Research-Project/blob/master/Nawal%20Ahmed%20-%20Project%20Proposal.pdf) and [Final Report](https://github.com/NathanAllerton/Dijkstra-Algorithm-and-Floyd-Warshall-Algorithm-Research-Project/blob/master/Nawal%20Ahmed%20-%20Final%20Report.pdf).
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11577850/66669444-8c1a7500-ec25-11e9-9412-ef17a064a5ee.jpg">
+  <img src="https://user-images.githubusercontent.com/11577850/67625127-dd228f80-f807-11e9-8f55-a7a700ad333a.PNG">
   <br>
   <em> Dijkstra Algorithm Program </em>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11577850/66669444-8c1a7500-ec25-11e9-9412-ef17a064a5ee.jpg">
+  <img src="https://user-images.githubusercontent.com/11577850/67625128-dd228f80-f807-11e9-99bb-6e6aa4375d2e.PNG">
   <br>
   <em> Floyd-Warshall Program </em>
 </p>
