@@ -1,6 +1,6 @@
 # Dijkstra Algorithm & Floyd-Warshall Algorithm Research Project
 
-This was for a research project I did for my Data Structures class.
+This was for a research project I did for my [Data Structures Class](https://github.com/NawalJAhmed/Data-Structures-Class).
 
 I was given the prompt of researching this topic by writing a paper that discusses the history, purpose, efficacy, usage, and comparing it to other algorithms and their derivatives. I also had to develop programs to supplement the paper, and give a presentation.
 
